@@ -1,0 +1,79 @@
+<html>
+    <head>
+        <title>SalmonSite</title>
+        <meta name="twitter:site" content="SalmonSite">
+        <meta name="twitter:title" content="SalmonSite">
+        <meta name="twitter:description" content="Check out this website :)">
+        <meta name="twitter:card" content="salmon">
+        <meta name="twitter:image:src" content="https://th3-s4lm0n.github.io/AFishMadeThisWebsite/img/salmon.png">
+        <meta name="theme-color" content="#FD0054">
+    </head>
+<body background="./img/bg.png" style="overflow-x: hidden;">
+
+<img src="./img/cooltext414019611725875.gif" style=" margin-left: auto;margin-right: auto; display: block; width: 600px;">
+<div style="display:flex;justify-content:center;">
+    <img src="./img/32.gif">
+    <img src="./img/32.gif">
+    <img src="./img/32.gif">
+    <img src="./img/Welcome.gif" style="width: 300px;">
+    <img src="./img/32.gif">
+    <img src="./img/32.gif">
+    <img src="./img/32.gif">
+</div>
+<img src="./img/thispageisunderconstruction.GIF" style="display:block; margin: auto;">
+
+<div style="display:flex;justify-content:center;">
+    <img src="./img/animated-salmon-fish-376402172.gif" style="width: 200px;">
+    <img src="./img/animated-salmon-fish-376402172.gif" style="width: 200px;">
+    <img src="./img/animated-salmon-fish-376402172.gif" style="width: 200px;">
+</div>
+
+<img src="./img/colorbar.gif" style="display:block; margin: auto; margin-top: 10px; width: 90vw; height: 1vh;">
+<p align="left" style="width:100vw"><font size="4" face="Arial" color="#FFFFFF"><marquee style="border-left: 10 dotted rgb(0,0,255); border-right: 10 dashed rgb(0,0,255); border-top: 10 solid rgb(0,0,255); border-bottom: 10 double rgb(0,0,255)" behavior="alternate" scrollamount="18" scrolldelay="30" border="0">titanfall_slander.mp4</marquee></font></p><div style="display:flex;justify-content:center;">
+    <img src="./img/5.gif">
+    <video width="640" height="300" controls autoplay >
+        <source src="./videos/titanfall_slander.mp4" type="video/mp4">
+    </video>
+    <img src="./img/5.gif">
+
+    </div>
+
+    <img src="./img/colorbar.gif" style="display:block; margin: auto; margin-top: 10px; width: 90vw; height: 1vh;">
+
+<h1 style="color: yellow; text-align: center;">OMG IS THAT A SEAL????</h1>
+<img src="./img/seal.gif" style=" margin: auto; display: block; width: 150px;">
+<a href="./files/seal.fbx" download="a test" style="color:hotpink; display: block; text-align: center;">Download</a> <link href="spotify/index.html">
+<img src="./img/colorbar.gif" style="display:block; margin: auto; margin-top: 10px; width: 90vw; height: 1vh;">
+<h1 style="color: pink; text-align: center;">RANDOM</h1>
+<img src="./img/16.gif" style=" position:absolute; display:inline; margin-left: 40vw;">
+<img src="./img/18.gif" style="display:inline; margin-left: 50vw; ">
+<img src="./img/16.gif" style="display:inline; margin-right: auto; ">
+<br>
+<img src="./img/15.gif" style="display:inline; margin-left: 25vw; ">
+
+<img src="./img/322.gif" style="display:inline; margin-left: 25vw; margin-right: auto; ">
+<img src="./img/dollarspindownd.gif" style="display:inline; margin-left: 25vw; ">
+<img src="./img/16.gif" style="display:inline; margin-left: 10vw; ">
+
+<img src="./img/colorbar.gif" style="display:block; margin: auto; margin-top: 10px; width: 90vw; height: 1vh;">
+<h1 style="color: blue; text-align: center;">CHECK OUT MY GITHUB!?!?!?!</h1>
+<p style="color: rgb(255, 166, 0); text-align: center;">I can write code!!</p>
+<a href="https://github.com/TH3-S4LM0N/">
+    <img src="./img/19.gif" style="display:block; margin: auto; width: 20vh;">
+</a>
+<p style="display: flex; justify-content: center;">
+    <img src="./img/98plusani.gif">
+    <img src="./img/debian-powered.gif">
+    <img src="./img/discord.gif">
+    <img src="./img/discord2.gif">
+    <img src="./img/getwmp7.gif">
+    <img src="./img/ie_anim.gif">
+    <img src="./img/microsoft.gif">
+    <img src="./img/notepad2.gif">
+</p>
+<img style="display: block; width: 100vw; height: 100px;" src="./img/salmon.gif">
+<img style="display: block; width: 100vw; height: 100px;" src="./img/M0oenqgd.gif">
+<link href="spotify/index.html">
+
+</body>
+</html>
